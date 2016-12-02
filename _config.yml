@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       FactsFinder
+email:       phanindrasrikar@gmail.com
+author:      Phanindra Veera
+description: "FactsFinder's Blog"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://factsfinder.me/blog"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -29,7 +29,7 @@ enable_anchorjs: false
 # Facebook Page integration
 # (for instant articles and other stuff)
 fb_page: false
-fb_page_id: 
+fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
@@ -42,11 +42,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username:factsfinder
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
-skype_username:
+twitter_username:factsfinder
+skype_username:veera.sumanth
 steam_nickname:
 google_plus_id:
 linkedin_username:
@@ -57,10 +57,10 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
