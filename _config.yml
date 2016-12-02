@@ -4,7 +4,7 @@ email:       phanindrasrikar@gmail.com
 author:      Phanindra Veera
 description: "FactsFinder's Blog"
 baseurl:     "/blog"
-url:         "https://factsfinder.me/"
+url:         "https://github.factsfinder.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
