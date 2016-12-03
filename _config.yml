@@ -21,7 +21,7 @@ animated:             true
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    true
-ajaxify_contact_form: false
+ajaxify_contact_form: true
 enable_mathjax: false
 enable_anchorjs: false
 extended_fonts: true
@@ -46,7 +46,7 @@ github_username: factsfinder
 bitbucket_username:
 stackoverflow_id:
 twitter_username: factsfinder
-skype_username: 
+skype_username:
 steam_nickname:
 google_plus_id:
 linkedin_username: phanindraveera
@@ -93,7 +93,7 @@ text:
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
-    subject:  'New submission!'
+    subject:  'From the blog'
     submit:   'Say Hello'
     ajax:
       sending:  'sending..'
